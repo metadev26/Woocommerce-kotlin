@@ -101,7 +101,7 @@ ext {
     wordPressUtilsVersion = '2.6.0'
     mediapickerVersion = 'trunk-6d9cbe0b1a0f0f2163b6ab6e0e5b2aadc6511ddd'
     wordPressLoginVersion = '0.20.0'
-    aboutAutomatticVersion = '0.0.6'
+    aboutAutomatticVersion = '31-7189fc92038bfe93525487efea80bd62bfa02680'
     workManagerVersion = '2.7.1'
 
     // Compose and its module versions need to be consistent with each other (for example 'compose-theme-adapter')
