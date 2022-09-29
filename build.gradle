@@ -92,7 +92,7 @@ ext {
     coroutinesVersion = '1.6.1'
     lifecycleVersion = '2.5.1'
     aztecVersion = 'v1.3.45'
-    flipperVersion = '0.154.0'
+    flipperVersion = '0.164.0'
     stateMachineVersion = '0.2.0'
     coreKtxVersion = '1.8.0'
     appCompatVersion = '1.4.2'
